@@ -31,17 +31,17 @@ git checkout solo
 
 ### Prepare Your Workspace
 
-1. [ ] First, stop any other Codespaces you have running to conserve core hours.
+1. [ x] First, stop any other Codespaces you have running to conserve core hours.
 
 ## Create Your First CSS File
-2. [ ] Perform these steps alongside your instructor to create your first CSS file.
+2. [ x] Perform these steps alongside your instructor to create your first CSS file.
     - Right-click on your explorer on the left.
     - Click New File.
     - Name it `styles.css`.
     - Click on your HTML file to return to viewing your HTML code.
 
 ## Link Your CSS File to Your HTML File
-3. [ ] With your instructor's guidance, successfully link to your CSS file.
+3. [ x] With your instructor's guidance, successfully link to your CSS file.
     - In your HTML file, create a `<link>` element within the `<head>` element.
     - Give that `<link>` element this `rel` attribute: `rel="stylesheet"`.
     - Then, give it this `href` attribute: `href="styles.css"`.
@@ -61,7 +61,7 @@ git checkout solo
 ## Change Paragraph Text Color
 Earlier, we saw how we could change the color of all paragraph text to blue and set a light gray background, but it didn’t look fantastic. Let’s try to improve our text colors this time.
 
- 4. [ ] Write your first CSS inside your `styles.css` file.
+ 4. [x ] Write your first CSS inside your `styles.css` file.
     - Return to your CSS file by clicking on `styles.css` in your explorer menu on the left.
     - In here, you can type any CSS code you want applied. Remember, we must start with a selector, so start by choosing all paragraphs by typing `p`.
     - Then, open your declaration block by typing `{}`, clicking between those symbols, and pressing your enter key. This will cause them to space out, and allow you to type a property. 
@@ -79,12 +79,12 @@ Earlier, we saw how we could change the color of all paragraph text to blue and 
     ```
 
 ## Check Your Work
-5. [ ] Verify that your work is correct, and fix any issues. This is an essential step whenever we make changes.
+5. [x ] Verify that your work is correct, and fix any issues. This is an essential step whenever we make changes.
     - Let’s view that in the browser to see what it looks like. 
     - Troubleshoot any issues for a few minutes with AI first, then ask your instructor for help if needed.
 
 ## Set Background Color
-6. [ ] Set a background color for the entire page.
+6. [ x] Set a background color for the entire page.
 
     - Just like when we wrote our paragraph color selector, select the `body` element.
     - Then, open your declaration block with curly braces `{}`
